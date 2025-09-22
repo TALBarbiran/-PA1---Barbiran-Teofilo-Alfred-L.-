@@ -1,6 +1,12 @@
 # -PA1---Barbiran-Teofilo-Alfred-L.-
-For the Alphabet soup problem, defining a function to return a string can be done by using the "sorted()" function. Using the sorted function allows the string to be arranged in ascending order. For the case of the word "example", each letter in the alphabet corresponds to a specific numerical value; therefore, the functions determine which letter to put in the first and final position based on their numerical value.
+**FOR THE ALPHABET SOUP PROBLEM**
+-  Defining a function to return a string can be done by using the "sorted()" function. Using the sorted function allows the string to be arranged in ascending order.
+-  For the case of the word "example", each letter in the alphabet corresponds to a specific numerical value; therefore, the functions determine which letter to put in the first and final position based on their numerical value.
 
-For the emoticon problem, defining a function to replace a word in a string can be done by using the ".replace" function. It specifies and replaces an input variable with the output variable. For the case of the word" I am mad", "mad" is considered the input variable and ">:(" is the output variable. The output variable is the string that will be returned.
+**FOR THE EMOTICON PROBLEM**
+- Defining a function to replace a word in a string can be done by using the ".replace" function. It specifies and replaces an input variable with the output variable.
+- For the case of the word" I am mad", "mad" is considered the input variable and ">:(" is the output variable. The output variable is the string that will be returned.
 
-For the unpacking list problem, generate a list of numbers and pack the numbers into a user-defined array by using square brackets. Name variables and distinguish them by using commas. It allows the variables to be categorized as lists with the corresponding numbers that associate with the variables. The "*" indicates that all of the values between the first and last element in the original list are to be put there.
+**FOR THE UNPACKING LIST PROBLEM**
+- generate a list of numbers and pack the numbers into a user-defined array by using square brackets. Name variables and distinguish them by using commas.
+- It allows the variables to be categorized as lists with the corresponding numbers that associate with the variables. The "*" indicates that all of the values between the first and last element in the original list are to be put there.
